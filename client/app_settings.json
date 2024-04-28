@@ -1,0 +1,27 @@
+{
+    "window_title": "Study Chat",
+    "window_resizable": true,
+    "window_width": 1000,
+    "window_height": 750,
+    "window_min_width": 1000,
+    "window_min_height": 600,
+
+    "light_grey": "#313338",
+    "dark_grey": "",
+    "darker_grey": "",
+
+    "testing_mode": false,
+    "tutor_groups": ["12AD", "13SL", "13MM", "13FX"],
+    "options": ["None", "Art & Design", "French", "Photography",
+                "Biology", "Geography", "Physical Education",
+                "Business Studies", "Film Studies", "Physics",
+                "Chemistry", "History of Art", "Politics",
+                "Classical Civilisation", "History, Early Modern", 
+                "Product Design","Computer Science", "History, Modern", 
+                "Psychology","Dance", "Law", "Religious Studies",
+                "Economics", "Mathematics", "Sociology", "Music Technology",
+                "Electronics", "Mathematics, Further", "Spanish",
+                "English Language", "Media Studies", "Theatre Studies",
+                "English Literature", "Music","Fashion & Textiles"]
+
+}

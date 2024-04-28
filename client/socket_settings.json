@@ -1,0 +1,9 @@
+{
+    "client_private_key": "C:/Users/George Taylor/Documents/StudyChat/client/networking/client_private_key.pem",
+    "server_public_key": "C:/Users/George Taylor/Documents/StudyChat/client/networking/server_public_key.pem",
+    "connect_to_server": true,
+    "port": 5055,
+    "format": "utf-8",
+    "backlog": 10,
+    "header_size": 4
+}
